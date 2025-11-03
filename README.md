@@ -2,7 +2,7 @@
 This project uses deep learning to detect plastic waste in underwater images. A CNN model classifies images as “Plastic Detected” or “Clean Ocean.” It supports sustainability and ocean conservation (SDG 14 – Life Below Water).
 
 
-**📘 Overview**
+#📘 Overview
 
 This project uses Deep Learning to automatically detect plastic waste in underwater images.
 A Convolutional Neural Network (CNN) model is trained to classify each image as “Plastic Detected” or “Clean Ocean.”
