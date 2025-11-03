@@ -38,10 +38,16 @@ This project proposes an **automated image classification model** that identifie
 
 dataset/
  ├── train/
+ 
  │     ├── plastic/
+ 
  │     └── non_plastic/
+
+ 
  └── test/
+ 
        ├── plastic/
+       
        └── non_plastic/
 
 ## ⚙️ **Technologies Used**
@@ -67,9 +73,13 @@ dataset/
 ## 📊 **Results**
 
 Training Accuracy: ~90–95%
+
 Validation Accuracy: ~85–90%
+
 Output Classes:
+
     🟢 Clean Ocean
+    
     🔴 Plastic Detected
 
 ## 🌎 **Sustainability Impact**
