@@ -1,4 +1,11 @@
 # 🌊 **Underwater-Plastic-Pollution-Detection-AI-ML**
+![Python](https://img.shields.io/badge/Python-3.9+-blue) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Metrics-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 This project uses deep learning to detect plastic waste in underwater images.  
 A **CNN model** classifies images as **“Plastic Detected”** or **“Clean Ocean.”**  
