@@ -34,21 +34,23 @@ This project proposes an **automated image classification model** that identifie
 
 ---
 
-## 📁 **Dataset Structure**
 
-dataset/
- ├── train/
- 
- │     ├── plastic/
- 
- │     └── non_plastic/
+## 📂 **Dataset Structure**
 
- 
- └── test/
- 
-       ├── plastic/
-       
-       └── non_plastic/
+ocean-plastic-detector/
+│
+├── dataset/
+│   ├── train/
+│   │   ├── plastic/
+│   │   └── clean/
+│   └── test/
+│
+├── ocean_plastic_detector.ipynb
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── troubleshooting.txt
+
 
 ## ⚙️ **Technologies Used**
 
