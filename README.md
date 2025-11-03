@@ -53,12 +53,10 @@ dataset/
 **📊 Results**
 
 Training Accuracy: ~90–95%
-
 Validation Accuracy: ~85–90%
-
 Output Classes:
-🟢 Clean Ocean
-🔴 Plastic Detected
+    🟢 Clean Ocean
+    🔴 Plastic Detected
 
 **🌎 Sustainability Impact**
 
